@@ -1,0 +1,1 @@
+This is from a tutorial: https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2
